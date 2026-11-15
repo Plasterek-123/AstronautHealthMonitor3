@@ -1,0 +1,105 @@
+{
+  "selected": "crew_01",
+  "records": {
+    "crew_01": {
+      "nutrition_profile": {
+        "weight": 75.0,
+        "age": 30,
+        "height": 178.0,
+        "sex": "Male",
+        "activity": 1.55
+      },
+      "nutrition_entries": [
+        {
+          "date": "2026-11-14",
+          "code": "DEMO001",
+          "name": "Mission meal A",
+          "servings": 1.0,
+          "calories": 460.0,
+          "protein": 26.0,
+          "carbs": 55.0,
+          "fat": 15.0,
+          "fiber": 7.0,
+          "sodium": 650.0,
+          "calcium": 160.0,
+          "iron": 4.0,
+          "vitamin_c": 25.0,
+          "vitamin_d": 3.0
+        },
+        {
+          "date": "2026-11-15",
+          "code": "DEMO002",
+          "name": "Recovery snack",
+          "servings": 1.0,
+          "calories": 210.0,
+          "protein": 14.0,
+          "carbs": 25.0,
+          "fat": 6.0,
+          "fiber": 4.0,
+          "sodium": 120.0,
+          "calcium": 220.0,
+          "iron": 2.0,
+          "vitamin_c": 10.0,
+          "vitamin_d": 2.0
+        }
+      ],
+      "nutrition_targets": {},
+      "nutrition_closed_days": [
+        "2026-11-15"
+      ],
+      "manual_enabled": true,
+      "manual_values": {
+        "hr": 67,
+        "breath": 15.0,
+        "spo2": 98,
+        "temp": 39.0,
+        "limb_temp": 36.0,
+        "tidal_volume": 0.0005,
+        "stress": 22,
+        "sleep": 7.5,
+        "awakenings": 1,
+        "absorbed_dose": 0.001,
+        "pressure": "110/70",
+        "sleep_stages": [
+          55.0,
+          23.0,
+          22.0
+        ],
+        "breathing_difficulty": false,
+        "irregular_breathing": false,
+        "external_level": "Nominal (demo)",
+        "solar_event": "No event in manual scenario"
+      }
+    },
+    "crew_02": {
+      "nutrition_profile": {
+        "weight": 75.0,
+        "age": 30,
+        "height": 178.0,
+        "sex": "Male",
+        "activity": 1.55
+      },
+      "nutrition_entries": [],
+      "nutrition_targets": {},
+      "nutrition_closed_days": [],
+      "manual_enabled": false,
+      "manual_values": {},
+      "mode": "Normal"
+    },
+    "crew_03": {
+      "nutrition_profile": {
+        "weight": 75.0,
+        "age": 30,
+        "height": 178.0,
+        "sex": "Male",
+        "activity": 1.55
+      },
+      "nutrition_entries": [],
+      "nutrition_targets": {},
+      "nutrition_closed_days": [],
+      "manual_enabled": false,
+      "manual_values": {},
+      "mode": "Normal"
+    }
+  }
+}

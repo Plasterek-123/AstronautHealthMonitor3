@@ -1,0 +1,44 @@
+{
+  "profile": {
+    "weight": 75.0,
+    "age": 30,
+    "height": 178.0,
+    "sex": "Male",
+    "activity": 1.55
+  },
+  "entries": [
+    {
+      "date": "2026-11-14",
+      "code": "DEMO001",
+      "name": "Mission meal A",
+      "servings": 1.0,
+      "calories": 460.0,
+      "protein": 26.0,
+      "carbs": 55.0,
+      "fat": 15.0,
+      "fiber": 7.0,
+      "sodium": 650.0,
+      "calcium": 160.0,
+      "iron": 4.0,
+      "vitamin_c": 25.0,
+      "vitamin_d": 3.0
+    },
+    {
+      "date": "2026-11-15",
+      "code": "DEMO002",
+      "name": "Recovery snack",
+      "servings": 1.0,
+      "calories": 210.0,
+      "protein": 14.0,
+      "carbs": 25.0,
+      "fat": 6.0,
+      "fiber": 4.0,
+      "sodium": 120.0,
+      "calcium": 220.0,
+      "iron": 2.0,
+      "vitamin_c": 10.0,
+      "vitamin_d": 2.0
+    }
+  ],
+  "targets": {}
+}

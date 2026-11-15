@@ -1,0 +1,90 @@
+[
+  {
+    "date": "2026-11-14",
+    "time": "08:00",
+    "title": "Health check"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "09:00",
+    "title": "Sleep and recovery review"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "09:00",
+    "title": "Bloodwork",
+    "type": "Medical"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "07:30",
+    "title": "Morning health review",
+    "type": "Medical"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "10:30",
+    "title": "Resistance training",
+    "type": "Exercise"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "12:30",
+    "title": "Nutrition and hydration review",
+    "type": "Nutrition"
+  },
+  {
+    "date": "2026-11-15",
+    "time": "16:00",
+    "title": "Blood pressure assessment",
+    "type": "Medical"
+  },
+  {
+    "date": "2026-11-16",
+    "time": "08:30",
+    "title": "Periodic health evaluation",
+    "type": "Medical"
+  },
+  {
+    "date": "2026-11-16",
+    "time": "14:00",
+    "title": "Emergency kit inspection",
+    "type": "Safety"
+  },
+  {
+    "date": "2026-11-17",
+    "time": "09:00",
+    "title": "Cycle ergometer session",
+    "type": "Exercise"
+  },
+  {
+    "date": "2026-11-17",
+    "time": "20:30",
+    "title": "Sleep preparation and recovery",
+    "type": "Sleep"
+  },
+  {
+    "date": "2026-11-18",
+    "time": "11:00",
+    "title": "Private medical conference",
+    "type": "Medical"
+  },
+  {
+    "date": "2026-11-19",
+    "time": "15:00",
+    "title": "Radiation dosimeter review",
+    "type": "Safety"
+  },
+  {
+    "date": "2026-11-20",
+    "time": "08:00",
+    "title": "Body mass and nutrition review",
+    "type": "Nutrition"
+  },
+  {
+    "date": "2026-11-21",
+    "time": "18:00",
+    "title": "Weekly wellness review",
+    "type": "Medical"
+  }
+]
